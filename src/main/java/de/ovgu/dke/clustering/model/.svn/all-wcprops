@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/model
+END
+SimpleClusterNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/model/SimpleClusterNode.java
+END
+MutableClusterNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/model/MutableClusterNode.java
+END
+HierarchicalClusterModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/model/HierarchicalClusterModel.java
+END
+ClusterModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/model/ClusterModel.java
+END
+PrototypeCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/model/PrototypeCluster.java
+END
+FlatClusterModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/model/FlatClusterModel.java
+END
+SimpleHierarchicalClusterModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/model/SimpleHierarchicalClusterModel.java
+END
+PrototypeClusterNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/model/PrototypeClusterNode.java
+END
+MutablePrototypeCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/model/MutablePrototypeCluster.java
+END
+Cluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/model/Cluster.java
+END
+SimplePrototypeCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/model/SimplePrototypeCluster.java
+END
+SimpleFlatClusterModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/model/SimpleFlatClusterModel.java
+END
+AbstractClusterModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/model/AbstractClusterModel.java
+END
+ClusterNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/model/ClusterNode.java
+END
+SimplePrototypeClusterNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/model/SimplePrototypeClusterNode.java
+END
+MutablePrototypeClusterNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/model/MutablePrototypeClusterNode.java
+END
+SimpleCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/model/SimpleCluster.java
+END
+MutableCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/model/MutableCluster.java
+END

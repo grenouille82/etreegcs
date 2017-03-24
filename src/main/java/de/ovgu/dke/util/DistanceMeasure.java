@@ -1,0 +1,142 @@
+package de.ovgu.dke.util;
+
+
+public abstract class DistanceMeasure {
+	
+	public enum MetricType 
+	{
+		Euclidean,
+		WeightedEuclidean,
+		Cosine,
+		WeightedCosine,
+		InnerProduct,
+		WeightedInnerProduct,
+		SquaredEuclidean,
+		WeightedSquaredEuclidean;
+	}
+	
+	public static DistanceMeasure createMetric(MetricType type)
+	{
+		DistanceMeasure metric = null;
+		switch(type)
+		{
+		case Euclidean:
+			metric = EUCLIDEAN;
+			break;
+		case WeightedEuclidean:
+			metric = WEIGHTED_EUCLIDEAN;
+			break;
+		case Cosine:
+			metric = COSINE;
+			break;
+		case WeightedCosine:
+			metric = WEIGHTED_COSINE;
+			break;
+		case InnerProduct:
+			metric = INNER_PRODUCT;
+			break;
+		case WeightedInnerProduct:
+			metric = WEIGHTED_INNER_PRODUCT;
+			break;
+		case SquaredEuclidean:
+			metric = EUCLIDEAN_SQR;
+			break;
+		case WeightedSquaredEuclidean:
+			metric = WEIGHTED_EUCLIDEAN_SQR;
+			break;
+		default:
+			throw new IllegalArgumentException();
+		
+		}
+		return metric;
+	}
+	
+	
+	public final static DistanceMeasure EUCLIDEAN = new DistanceMeasure() {
+		@Override
+		public double getDistance(double[] a, double[] b, double[] weights) {
+			return DoubleVector.euclDist(a, b);
+		}
+	};
+	
+	public final static DistanceMeasure WEIGHTED_EUCLIDEAN = new DistanceMeasure() {
+		@Override
+		public double getDistance(double[] a, double[] b, double[] weights) {
+			return DoubleVector.weightedEuclDist(a, b, weights);
+		}
+	};
+	
+	public final static DistanceMeasure COSINE = new DistanceMeasure() {
+		@Override
+		public double getDistance(double[] a, double[] b, double[] weights) {
+			double sim = DoubleVector.cosine(a, b);
+//			return (sim == 0) ? 1.0 : 1.0 / sim; 
+//			return 1.0 - sim;
+//	
+			return Math.acos(sim); // no violation this way -> working with angles
+		}
+	};
+	
+	public final static DistanceMeasure WEIGHTED_COSINE = new DistanceMeasure() {
+		@Override
+		public double getDistance(double[] a, double[] b, double[] weights) {
+			double sim = DoubleVector.weightedCosine(a, b, weights);
+//			return (sim == 0) ? 1.0 : 1.0 / sim; 
+			return 1.0 - sim;
+//			return Math.acos(sim); // no violation this way -> working with angles
+		}
+	};
+	
+	// not real distance measures:
+	
+	public final static DistanceMeasure EUCLIDEAN_SQR = new DistanceMeasure() {
+		@Override
+		public double getDistance(double[] a, double[] b, double[] weights) {
+			return DoubleVector.euclDistSQR(a, b, Double.POSITIVE_INFINITY);
+		}
+	};
+	
+	public final static DistanceMeasure WEIGHTED_EUCLIDEAN_SQR = new DistanceMeasure() {
+		@Override
+		public double getDistance(double[] a, double[] b, double[] weights) {
+			return DoubleVector.weightedEuclDistSQR(a, b, weights, Double.POSITIVE_INFINITY);
+		}
+	};
+	
+	public final static DistanceMeasure INNER_PRODUCT = new DistanceMeasure() {
+		@Override
+		public double getDistance(double[] a, double[] b, double[] weights) {
+			double sim = DoubleVector.innerProduct(a, b);
+//			return (sim == 0) ? 1.0 : 1.0 / sim; 
+			return 1.0 - sim;
+//			return Math.acos(sim); // no violation this way -> working with angles
+		}
+	};
+	
+	public final static DistanceMeasure WEIGHTED_INNER_PRODUCT = new DistanceMeasure() {
+		@Override
+		public double getDistance(double[] a, double[] b, double[] weights) {
+			double sim = DoubleVector.weightedInnerProduct(a, b, weights);
+//			return (sim == 0) ? 1.0 : 1.0 / sim; 
+//			return 1.0 - sim;
+			return Math.acos(sim); // no violation this way -> working with angles
+		}
+	};	
+	
+
+	
+	
+	/**
+	 * 
+	 * @param a
+	 * @param b
+	 * @param weights
+	 * @return
+	 */
+	public abstract double getDistance(double[] a, double[] b, double[] weights);
+
+	public double getDistance(double[] a, double[] b) {
+		return getDistance(a, b, null);
+	}
+	
+}

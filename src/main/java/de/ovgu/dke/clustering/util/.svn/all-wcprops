@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/util
+END
+RandomExampleInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/util/RandomExampleInitializer.java
+END
+RandomRangeInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/util/RandomRangeInitializer.java
+END
+ConstantEpochDatasetSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/util/ConstantEpochDatasetSampler.java
+END
+CentroidLinkage.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/util/CentroidLinkage.java
+END
+PrototypeInitialzerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/util/PrototypeInitialzerType.java
+END
+CompleteLinkage.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/util/CompleteLinkage.java
+END
+ClusteringUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/util/ClusteringUtility.java
+END
+DatasetSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/util/DatasetSampler.java
+END
+PrototypeInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/util/PrototypeInitializer.java
+END
+DatasetSamplerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/util/DatasetSamplerType.java
+END
+SingleLinkage.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/util/SingleLinkage.java
+END
+AbstractIntraClusterDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/util/AbstractIntraClusterDistance.java
+END
+ClusterAvgDistanceMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/util/ClusterAvgDistanceMatrix.java
+END
+RandomGaussianInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/util/RandomGaussianInitializer.java
+END
+MaxLinkage.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/util/MaxLinkage.java
+END
+CentroidDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/util/CentroidDistance.java
+END
+AbstractInterClusterDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/util/AbstractInterClusterDistance.java
+END
+ConstantDatasetSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/util/ConstantDatasetSampler.java
+END
+AvgDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/util/AvgDistance.java
+END
+ProximityMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/util/ProximityMatrix.java
+END
+RandomEpochDatasetSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/util/RandomEpochDatasetSampler.java
+END
+IntraClusterDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/util/IntraClusterDistance.java
+END
+NeareastNeighborDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/util/NeareastNeighborDistance.java
+END
+InterClusterDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/util/InterClusterDistance.java
+END

@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive
+END
+TreeCompetitiveLearningAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/TreeCompetitiveLearningAlgorithm.java
+END
+GraphCompetitiveLearningAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/GraphCompetitiveLearningAlgorithm.java
+END
+TreeGCSAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/aucoma/main/!svn/ver/141/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/TreeGCSAlgorithm.java
+END
+CompetitiveDataStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/CompetitiveDataStructure.java
+END
+SearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/SearchResult.java
+END
+GrowingCellStructureAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/aucoma/main/!svn/ver/141/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/GrowingCellStructureAlgorithm.java
+END
+SimpleInsertionStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/aucoma/main/!svn/ver/141/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/SimpleInsertionStrategy.java
+END
+ClusterSepInsertionStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/aucoma/main/!svn/ver/141/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/ClusterSepInsertionStrategy.java
+END
+IncrementalClusterSepInsStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/aucoma/main/!svn/ver/141/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/IncrementalClusterSepInsStrategy.java
+END
+CompetitiveTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/CompetitiveTree.java
+END
+CompetitiveTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/aucoma/main/!svn/ver/141/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/CompetitiveTreeNode.java
+END
+KLevelUpClusterSepInsertionStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/aucoma/main/!svn/ver/141/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/KLevelUpClusterSepInsertionStrategy.java
+END
+CompetitiveLearningAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/aucoma/main/!svn/ver/141/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/CompetitiveLearningAlgorithm.java
+END
+LocalSearchMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/aucoma/main/!svn/ver/141/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/LocalSearchMethod.java
+END
+TreeNodeInsertionStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/aucoma/main/!svn/ver/141/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/TreeNodeInsertionStrategy.java
+END
+GlobalSearchMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/aucoma/main/!svn/ver/141/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/GlobalSearchMethod.java
+END
+WinnerSearchMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/aucoma/main/!svn/ver/141/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/WinnerSearchMethod.java
+END
+CompetitiveSimplex.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/CompetitiveSimplex.java
+END
+GreedySearchClusterSepInsertionStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/aucoma/main/!svn/ver/141/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/GreedySearchClusterSepInsertionStrategy.java
+END
+CompetitiveAlgorithmType.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/CompetitiveAlgorithmType.java
+END
+TreeGNGAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/aucoma/main/!svn/ver/141/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/TreeGNGAlgorithm.java
+END
+ArrayIndexedMST.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/ArrayIndexedMST.java
+END
+GreedySearchMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/aucoma/main/!svn/ver/141/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/GreedySearchMethod.java
+END
+CompetitiveGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/aucoma/main/!svn/ver/140/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/CompetitiveGraph.java
+END
+CompetitiveEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/CompetitiveEdge.java
+END
+GrowingNeuralGasAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/aucoma/main/!svn/ver/141/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/GrowingNeuralGasAlgorithm.java
+END
+CompetitiveVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/CompetitiveVertex.java
+END
+CompetitiveUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/aucoma/main/!svn/ver/141/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/CompetitiveUtil.java
+END
+NewInsStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/aucoma/main/!svn/ver/141/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/NewInsStrategy.java
+END
+NaiveSearchMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/aucoma/main/!svn/ver/141/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/NaiveSearchMethod.java
+END
+WinnerSearchMethodType.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/WinnerSearchMethodType.java
+END
+ClusterScatteredInsertionStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/aucoma/main/!svn/ver/141/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/competitive/ClusterScatteredInsertionStrategy.java
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/util
+END
+XMLSupportingClassIf.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/util/XMLSupportingClassIf.java
+END
+Settings.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/util/Settings.java
+END
+Parametrizable.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/util/Parametrizable.java
+END
+ObjectWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/aucoma/main/!svn/ver/139/etreegcs/trunk/src/main/java/de/ovgu/dke/util/ObjectWrapper.java
+END
+UnmodifiableIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/util/UnmodifiableIterator.java
+END
+DescriptiveStatistic.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/util/DescriptiveStatistic.java
+END
+DistanceMeasure.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/aucoma/main/!svn/ver/139/etreegcs/trunk/src/main/java/de/ovgu/dke/util/DistanceMeasure.java
+END
+Parameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/util/Parameter.java
+END
+XMLSupportingClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/util/XMLSupportingClass.java
+END
+SimpleObjectWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/aucoma/main/!svn/ver/139/etreegcs/trunk/src/main/java/de/ovgu/dke/util/SimpleObjectWrapper.java
+END
+ObjectSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/aucoma/main/!svn/ver/139/etreegcs/trunk/src/main/java/de/ovgu/dke/util/ObjectSet.java
+END
+MathUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/util/MathUtil.java
+END
+SimpleObjectSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/aucoma/main/!svn/ver/139/etreegcs/trunk/src/main/java/de/ovgu/dke/util/SimpleObjectSet.java
+END
+DoubleVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/aucoma/main/!svn/ver/139/etreegcs/trunk/src/main/java/de/ovgu/dke/util/DoubleVector.java
+END
+Copyable.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/util/Copyable.java
+END
+CSVObjectSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/aucoma/main/!svn/ver/139/etreegcs/trunk/src/main/java/de/ovgu/dke/util/CSVObjectSet.java
+END

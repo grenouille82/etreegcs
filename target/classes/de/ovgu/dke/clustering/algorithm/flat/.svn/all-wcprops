@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/flat
+END
+FlatClusterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/flat/FlatClusterer.java
+END
+FlattenHAClusterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/flat/FlattenHAClusterer.java
+END
+FlattenTreeCompetitiveClusterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/flat/FlattenTreeCompetitiveClusterer.java
+END
+KMeansModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/aucoma/main/!svn/ver/141/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/flat/KMeansModel.java
+END
+CompoundKMeansCompetitiveClusterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/aucoma/main/!svn/ver/141/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/flat/CompoundKMeansCompetitiveClusterer.java
+END
+KMeansClusterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/aucoma/main/!svn/ver/141/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/flat/KMeansClusterer.java
+END
+FlatCompetitiveClusterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/aucoma/main/!svn/ver/141/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/flat/FlatCompetitiveClusterer.java
+END
+FakeSupervisedClusterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/aucoma/main/!svn/ver/141/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/algorithm/flat/FakeSupervisedClusterer.java
+END

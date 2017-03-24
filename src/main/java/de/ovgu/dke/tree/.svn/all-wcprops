@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/tree
+END
+Tree.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/tree/Tree.java
+END
+AbstractTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/tree/AbstractTree.java
+END
+BinaryTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/tree/BinaryTree.java
+END
+LinkedTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/tree/LinkedTree.java
+END
+AbstractBinaryTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/tree/AbstractBinaryTree.java
+END
+TreeIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/tree/TreeIterator.java
+END
+LinkedBinaryTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/tree/LinkedBinaryTree.java
+END
+PostOrderTreeIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/tree/PostOrderTreeIterator.java
+END
+InOrderTreeIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/tree/InOrderTreeIterator.java
+END
+PreOrderTreeIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/tree/PreOrderTreeIterator.java
+END
+AbstractTreeIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/tree/AbstractTreeIterator.java
+END
+EmptyTreeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/tree/EmptyTreeException.java
+END
+LevelOrderTreeIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/tree/LevelOrderTreeIterator.java
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/msctest
+END
+KMeansExperiment.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/msctest/KMeansExperiment.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/msctest/Test.java
+END
+FlatComeptitiveExperiment.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/msctest/FlatComeptitiveExperiment.java
+END
+MCSUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/msctest/MCSUtil.java
+END
+HierarchicalClusteringEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/msctest/HierarchicalClusteringEvaluator.java
+END
+ClassDistanceComputation.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/msctest/ClassDistanceComputation.java
+END
+ReferenceLabelHierarchies.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/aucoma/main/!svn/ver/110/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/msctest/ReferenceLabelHierarchies.java
+END
+CompetitiveInsertionStrategyExperiment.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/msctest/CompetitiveInsertionStrategyExperiment.java
+END
+SampleDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/msctest/SampleDataset.java
+END
+HierarchicalCompetitiveExperiment.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/msctest/HierarchicalCompetitiveExperiment.java
+END
+IncrInsertionStrategyExperiment.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/msctest/IncrInsertionStrategyExperiment.java
+END
+FlatClusterEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/msctest/FlatClusterEvaluator.java
+END
+HACExperiment.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/msctest/HACExperiment.java
+END
+IncrementalTreeCompetitiveEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/aucoma/main/!svn/ver/142/etreegcs/trunk/src/main/java/de/ovgu/dke/clustering/msctest/IncrementalTreeCompetitiveEvaluator.java
+END

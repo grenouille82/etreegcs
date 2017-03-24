@@ -1,0 +1,118 @@
+package de.ovgu.dke.graph;
+
+import java.util.Collection;
+import java.util.Iterator;
+
+import de.ovgu.dke.util.Copyable;
+
+/**
+ * 
+ * @author mhermkes
+ *
+ * @param <V>
+ * @param <E>
+ */
+public interface Graph<V extends Vertex, E extends Edge<V>>
+extends Copyable<Graph<V,E>>
+{
+	/**
+	 * 
+	 * @param v
+	 * @return
+	 */
+	public boolean addVertex(V v);
+
+	/**
+	 * 
+	 * @param v
+	 * @return
+	 */
+	public boolean removeVertex(Vertex v);
+
+	/**
+	 * 
+	 * @param e
+	 * @return
+	 */
+	public boolean addEdge(E e);
+
+	/**
+	 * 
+	 * @param e
+	 * @return
+	 */
+	public boolean removeEdge(Edge<? extends Vertex> e);
+	
+	public E removeEdge(Vertex v1, Vertex v2);
+
+	/**
+	 * 
+	 * @param v1
+	 * @param v2
+	 * @return
+	 */
+	public E getEdge(Vertex v1, Vertex v2);
+	
+	/**
+	 * 
+	 * @param v1
+	 * @param v2
+	 * @return
+	 */
+	public boolean areConnected(Vertex v1, Vertex v2);
+
+	/**
+	 * 
+	 * @param v
+	 * @return
+	 */
+	public int degree(Vertex v);
+
+	/**
+	 * 
+	 * @return
+	 */
+	public int numberOfVertices();
+
+	/**
+	 * 
+	 * @return
+	 */
+	public int numberOfEdges();
+
+	/**
+	 * 
+	 * @param v
+	 * @return
+	 */
+	public boolean containsVertex(Vertex v);
+
+	/**
+	 * 
+	 * @param e
+	 * @return
+	 */
+	public boolean containsEdge(Edge<? extends Vertex> e);
+
+	/**
+	 * 
+	 * @param vertices
+	 * @return
+	 */
+	public Graph<V,E> extractSubGraph(Collection<? extends Vertex> vertices);
+	
+	/**
+	 * 
+	 * @param v
+	 * @return
+	 */
+	public Iterator<E> incidentEdges(Vertex v);
+	
+	/**
+	 * 
+	 * @return
+	 */
+	public Iterator<V> vertices();
+	
+	public boolean isEmpty();
+}
